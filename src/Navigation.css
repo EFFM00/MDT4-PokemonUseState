@@ -1,0 +1,11 @@
+.navigation {
+    background-color: aqua;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+.navigation nav ul {
+    display: flex;
+}
